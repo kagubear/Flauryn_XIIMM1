@@ -1,0 +1,95 @@
+body {
+  margin: 0;
+}
+
+.sectionone {
+  width: 99.2vw;
+  height: 47.5vw;
+  border-bottom: 1px solid rgba(112, 112, 112, 0.3411764706);
+  background-color: #F6F4F1;
+}
+.sectionone .titleone {
+  display: flex;
+  width: 99.2vw;
+  height: 6vw;
+  border-bottom: 1px solid rgba(112, 112, 112, 0.3411764706);
+  background-color: white;
+}
+.sectionone .titleone .imageone {
+  margin-left: 4vw;
+  margin-top: 2.8vw;
+}
+.sectionone .titleone .imageone img {
+  width: 12vw;
+  height: 0.3vw;
+}
+.sectionone .titleone .textone {
+  margin-left: 2.5vw;
+  margin-top: 1.8vw;
+}
+.sectionone .titleone .textone b {
+  font-family: Consolas;
+  color: #686868;
+  font-size: 2vw;
+}
+.sectionone .artbutton {
+  width: 99.2vw;
+  height: 39vw;
+}
+.sectionone .artbutton .artworksone {
+  width: 99.2vw;
+  height: 35vw;
+  display: flex;
+  justify-content: center;
+}
+.sectionone .artbutton .artworksone .first1 {
+  width: 19vw;
+  height: 31vw;
+  margin-top: 2vw;
+  margin-right: 0.7vw;
+}
+.sectionone .artbutton .artworksone .first1 img {
+  object-fit: cover;
+  height: 30.8vw;
+  width: 19vw;
+}
+.sectionone .artbutton .artworksone .second1 {
+  width: 25vw;
+  height: 32vw;
+  margin-top: 1.2vw;
+}
+.sectionone .artbutton .artworksone .second1 img {
+  object-fit: cover;
+  height: 15vw;
+  width: 27vw;
+  margin-top: 0.8vw;
+}
+.sectionone .artbutton .artworksone .third1 {
+  width: 26vw;
+  height: 32vw;
+  margin-top: 1.2vw;
+  margin-left: 2.65vw;
+}
+.sectionone .artbutton .artworksone .third1 img {
+  object-fit: cover;
+  height: 30.8vw;
+  width: 27vw;
+  margin-top: 0.8vw;
+}
+.sectionone .artbutton button {
+  margin-left: 41.5vw;
+  height: 3.7vw;
+  width: 15vw;
+  border-radius: 10vw;
+  border-style: hidden;
+  background-color: #686868;
+}
+.sectionone .artbutton button a {
+  font-family: Consolas;
+  font-weight: bold;
+  font-size: 1.8vw;
+  color: #F6F4F1;
+  text-decoration: none;
+}
+
+/*# sourceMappingURL=illust.css.map */
