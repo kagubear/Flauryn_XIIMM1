@@ -268,11 +268,14 @@ header .box2 .thirdbox {
   width: 15vw;
   border-radius: 10vw;
   border-style: hidden;
+  background-color: #686868;
+}
+.sect2 .artbutton1 button a {
   font-family: Consolas;
   font-weight: bold;
   font-size: 1.8vw;
   color: #F6F4F1;
-  background-color: #686868;
+  text-decoration: none;
 }
 
 .sect3 {
